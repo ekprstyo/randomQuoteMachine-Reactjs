@@ -1,0 +1,25 @@
+#quote-box {
+  background-color: white;
+  width: 450px;
+  padding: 40px 50px;
+  border-radius: 3px;
+}
+
+#text {
+  font-size: 28px;
+}
+
+#author {
+  text-align: right;
+  font-size: 20px;
+}
+
+.btnContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.socmedBtn {
+  display: flex;
+  align-items: center;
+}
